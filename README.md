@@ -7,16 +7,9 @@
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=4x9t&show_icons=true&locale=en&theme=dark" alt="4x9t GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=4x9t&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=4x9t&show_icons=true&locale=en&theme=dark" alt="4x9t GitHub Stats" />
+</div>
 
 ---
 
