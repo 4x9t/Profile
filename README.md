@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm 4x9t</h1>
-<h3 align="center">A passionate frontend developer from the United Kingdom</h3>
+<h1 align="center">Hello, I'm 4x9t</h1>
+<h3 align="center">A Freelance Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4x9t&label=Profile%20views&color=0e75b6&style=flat" alt="4x9t" /> </p>
 
