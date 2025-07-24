@@ -13,4 +13,6 @@
 
 ---
 
-![snake gif](https://github.com/4x9t/4x9t/blob/output/github-snake-dark.svg)
+<div align="center">
+  <img src="https://github.com/4x9t/4x9t/blob/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
